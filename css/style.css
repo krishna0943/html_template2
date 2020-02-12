@@ -1,7 +1,59 @@
 .d1
+		{
+			background-image: url("../img/banner/banner_2.png");
+            background-size: 100%, 100%;
+            background-repeat: no-repeat;
+            width: 100%;
+            height: 400px;
+            filter: brightness(80%);
+        }
+        
+.header_1
 {
-    width: 100%;
-    position: absolute;
-    left: 0%;
-    top: 0%;
+    filter: none;
+}
+.icon
+{
+    line-height: 85px;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+    height: 90px;
+    width: 100px;
+}
+  
+
+.i1
+{
+    background:rgb(0,0,170);
+}
+.i2
+{
+    background:rgb(66,255,66);
+}
+.i3
+{
+    background:rgb(221,111,0);
+}
+.i4
+{
+    background:rgb(128,0,255);
+}
+
+.coman
+{
+    padding:20px;
+    margin-bottom: 25px;
+}
+
+.con3
+{
+    margin-top: 40px;
+}
+
+.ourcon
+{
+    background-image: url(../img/service/about.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
